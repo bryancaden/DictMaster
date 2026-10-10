@@ -1,0 +1,6 @@
+{
+  "name": "默書小伴侶 - AI 智能中英温默書與自動批改",
+  "description": "支援中英雙語默書，拍照/上傳即時辨識默書表，多種語速發音朗讀（粵語/普通話/英語），提供線上默寫及手寫紙拍照自動評分與錯題本複習。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
